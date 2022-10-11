@@ -1,0 +1,33 @@
+title{
+    padding-left: 30px;
+    color: green;
+    size: 30px;
+
+}
+tr{
+    padding: 8px;
+}
+th{
+    font-size: 20px;
+}
+td{
+    font-size: 16px;
+    border-bottom: 2px solid chocolate;
+}
+
+
+.bot{
+    border: 1px solid  black;
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.game{
+    display: flex;
+}
+.y{
+    size: 20px;
+    color: aqua;
+}
